@@ -1,0 +1,152 @@
+IT 145: Task Automation for IT Admins
+Winter 2025 - CRN 21256
+W 2-3:15 pm Sill 157
+
+Instructor: Katie Tracy 
+E-mail: ktracy2@emich.edu
+
+Campus Location: 
+MA1 = Partially on campus and partially online without meeting times (Online Hybrid)
+
+Classroom: Sill Hall Room 157
+Class Meeting Times: W 2-3:15 pm, 
+
+In-Person Office Hours: Wednesdays 3:15-3:45 pm, Sill 157
+Available other times by appointment:  https://calendar.app.google/ZrnkCpdSms77K3Qp7
+
+University Academic Calendar: https://www.emich.edu/registrar/calendars/winter-2025/index.php
+
+University Final Exam Schedule: https://www.emich.edu/registrar/calendars/winter-2025/exam-schedule.php
+
+“We’re all smart.  Distinguish yourself by being kind.”
+
+
+Course Description and Objectives: This course will provide students with necessary skills and tools to serve in firms as a Systems administrator (or Sysadmin). Students will learn how to automate tasks with the Python (or other) language to solve various system administration problems.
+
+Credits: 3
+Prerequisites: None
+Co-requisites: None
+
+Textbooks: 
+
+Python Crash Course: A Hands-On, Project-Based Introduction to Programming (1st Edition)
+(Available on Books 24x7 with your my.emich account via http://guides.emich.edu/cis)
+ISBN-10: 1593276036 / ISBN-13: 978-1593276034
+
+Automate the Boring Stuff with Python: Practical Programming for Total Beginners 
+(Available on Books 24x7 with your my.emich account via http://guides.emich.edu/cis)
+ISBN-10: 1593275994 / ISBN-13: 978-1593275990
+
+Additional materials may be distributed.
+Supplemental Texts: 
+
+Think Python, 2nd Edition by Allen B. Downey. 
+(Available online: http://greenteapress.com/wp/think-python-2e/)
+
+
+
+Course Outcomes	This course introduces the basic concepts and skills of computer programming using Python. More advanced options may be introduced later in the semester.
+Students who successfully complete this course will be able to:
+Demonstrate foundational knowledge of programming (variables, loops, conditionals, and functions), how to read and write information to and from files, and write basic programs and scripts. (ABET outcomes: b,c,i) 
+
+Ability to automate simple tasks such as: (ABET outcomes: b,c,i)
+Moving and renaming thousands of files and sorting them into folders
+Updating or formatting Excel spreadsheets
+Updating or formatting CSV files
+Manipulating PDF files
+Updating or formatting Word files
+Manipulating and matching strings using Regular expressions.
+Storing data in JSON format.
+
+Course Topics	The following topics are covered in this course. This content may be changed at the discretion of the instructor. Also note that each of the topics below may contain a homework assignment, a quiz, or both. More details will be communicated to you throughout the semester.
+Introductions, print statements, variables and types  
+Input, conditionals, expressions,  and Loops  
+String operations, Functions , and I/O  
+Lists, Tuples, and Dictionaries  
+Classes  
+Exceptions  
+Regular expressions
+Working with Excel Spreadsheets
+Working with PDF
+Working with Word documents
+Working with CSV files
+Keeping time
+Organizing Files
+Compressing Files  
+
+
+Grading and Evaluation: 
+
+Midterm: 								20%
+Final exam (Comprehensive): 					20%
+Assignments/Quizzes/Classwork/Projects/Activities/Participation:	60%
+
+* Extra credit opportunities may be given periodically and at my discretion
+
+Grading Scale: 
+
+94 - 100% = A 
+90 - <94% = A- 
+87 - <90% = B+
+84 - <87% = B 
+80 - <84% = B- 
+77 - <80% = C+
+74 - <77% = C 
+70 - <74% = C- 
+67 - <70% = D+ 
+64 - <67% = D 
+60 - <64% = D- 
+0   - <60% = F
+
+Notes on Grading:
+In-class activities should be completed during class when they are administered.
+Requests to complete these activities outside of class will not be entertained.
+Attendance will be documented at a random time during class meetings
+Programs that do not compile will be given a grade of 50%.  Make sure that you do some debugging or comment parts of your code that are throwing errors before you submit.  Leave a comment on your Canvas submission that lets me know what the errors are and what you have done to try to remedy them.  Projects that are not uploaded to Canvas by the deadline or are not readable by Canvas will be considered incomplete and will receive a grade of zero.
+For full credit: Assignments must be submitted by the deadline (given on Canvas) for full credit.  Make sure you have completed the minimum requirements and have successfully uploaded a readable source code version of your project.
+For late credit: Program source code (uploaded to Canvas) and other assignments must be turned in by the deadline.  For each day past the due date that the assignment is late, you will receive a 10% deduction per day.  For example, if an assignment is due Tuesday 1/14 by 11:59 pm, if you submit the assignment on Wednesday 1/15 at 12:01 am, you will lose 10% automatically.  No assignments may be turned in after the last class of the semester. 
+During lecture sessions, I may include in-class activities for you to complete, which will reflect attendance and participation. Also, if you have a question during the lecture, please ask! Others probably have the same question!
+Lecture materials are covered by copyright. No assignment descriptions, parts of assignment descriptions, videos, handouts, parts of handouts, questions, or any other materials from this class may be distributed beyond this class.
+
+
+
+Academic Success
+
+EMU Writing Support: 
+UNIVERSITY WRITING CENTER
+115 Halle Library
+734-487-0694
+http://www.emich.edu/uwc
+
+Tutoring Lab: Pray Harrold Room 513. Staffed with graduate assistants and tutors, our tutoring lab is a great place to get help and get your questions answered. Bring your laptop, show them your code, tell them where you're stuck, ask questions, etc.
+
+Disability Resource Center - https://www.emich.edu/drc/
+Students who believe they need a special accommodation must provide a DRC-approved LOA and allow the instructor reasonable time to make proper accommodations.
+Attendance and Participation: Research shows that students who attend and actively participate in classes perform better. To help you be more successful I have the following attendance policy.
+You are required to attend and participate in each class. I will gauge your attendance based on in-class activities, sometimes there may be a sign-in sheet, or I could just observe your participation in discussions. 
+
+
+Communication: To ensure effective communication, you are required to use your university email (YourNetID@emich.edu) for all communications related to this class. It is your responsibility to check your university email daily, as many important communications will be done via email. Each student is responsible for checking both email and Canvas course Announcements at least once a day. If you haven't done so yet, consider enabling the "email right away" feature for Canvas Announcements. In Canvas, go to Account, and in the Announcements row select "Notify me right away".  Either see the instructor in-person, or send an email. Always put IT xxx, in the subject line when emailing the instructor, where XXX is the course number such as IT 145, etc.
+University Course Policies, Expectations, and Student Resources:
+
+In addition to the articulated course specific policies and expectations, students are responsible for understanding all applicable University guidelines, policies, and procedures. The EMU Student Handbook is the primary resource provided to students to ensure that they have access to all university policies, support resources, and student's rights and responsibilities. Changes may be made to the EMU Student Handbook whenever necessary, and shall be effective immediately, and/or as of the date on which a policy is formally adopted, and/or on the date specified in the amendment. Please note: Electing not to access the link provided below does not absolve a student of responsibility. For questions about any university policy, procedure, practice, or resource, please contact the Office of the Ombuds: 248 Student Center, 734.487.0074, emu_ombuds@emich.edu, or visit the website: www.emich.edu/ombuds.
+
+University Course Policies: http://www.emich.edu/studenthandbook/policies/academic.php#univ
+
+Student Handbook Link: 
+https://www.emich.edu/studenthandbook/index.php
+
+
+General Policies:
+A grade of “I” will be given only in accordance with Eastern Michigan University’s guidelines.
+By University policy the instructor has the option of failing a student who does not attend class on the day of the final examination set by the university.
+Midterm and final exams may not be made up, unless due to an excruciating circumstance, which is to be supported by solid documentation and at the instructor’s discretion.
+Final grades will not be given in person, by telephone, e-mail, fax or any other communications medium except that of University standard written grading at the end of the semester.
+The Instructor reserves the right to make any additions/deletions or changes to this syllabus as deemed necessary.
+
+
+TLDR;
+I promise to treat you all with respect, arrive to class on time, not use a cell phone during class, and return assignments and exams on time (typically within one week).  One thing about me is that I will not tolerate any disrespectful or inappropriate behavior in the classroom or department.  If you are experiencing any discomfort in my class or any other class, my office hours are a safe space for you to discuss it.  Refer to the Sexual Misconduct Prevention and Response section above for more details.  
+
+I expect you to treat me with the same respect you would like me to show you, and that you will arrive at class on time.  You will put your cell phones on silent and put them in a backpack or bag, you will use your computer for class purposes only, and you will approach me with any questions concerning the class at the earliest possible time. Coming to see me 3 months into the semester and telling me "I don't understand" is unacceptable.  Come see me during in-person office hours (immediately after class) or schedule an appointment using the link on the first page.
+The instructor reserves the right to alter this syllabus as necessary with the proper notice.

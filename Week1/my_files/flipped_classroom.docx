@@ -1,0 +1,44 @@
+Detailed Weekly Breakdown
+
+Before Class: Preparation (2-3 Hours)
+Learning Material:
+Short pre-recorded lecture videos (10-15 minutes max) on key concepts.
+Assigned readings from the textbook (specific sections relevant to the week).
+Interactive coding tutorials on Replit.
+Check for Understanding:
+Short quizzes or "knowledge checks" based on readings/videos.
+Low-stakes coding practice with automated feedback.
+Example: "Write a Python program to print numbers from 1 to 10 using a loop."
+
+During Class: Active Learning (75 Minutes)
+Class Plan:
+10-15 Minutes:
+Recap key concepts from pre-class material. Address questions or common challenges from quizzes.
+15-20 Minutes:
+Live Coding Demonstration:
+Walk through a more complex example related to the week's topic (e.g., file automation, regex).
+Emphasize problem-solving and thinking aloud as you code.
+30-40 Minutes:
+Guided Hands-On Activity:
+Students work individually or in pairs to complete a task with your support.
+Example: Write a script to parse and clean data from a CSV file.
+Break it into clear steps:
+Step 1: Load and read a CSV file.
+Step 2: Analyze its content.
+Step 3: Filter rows and save the updated file.
+5-10 Minutes:
+Wrap-up: Review the solution and key takeaways.
+Preview the post-class lab/project.
+
+After Class: Application (3-4 Hours)
+Weekly Lab/Assignment:
+Build on the in-class activity to solidify understanding.
+Example: Automate a file-cleaning task and save results to multiple formats (CSV, Excel).
+Reflection or Discussion Post:
+Prompt students to reflect on the week's topic, challenges, and successes.
+Example: "What was the most difficult part of parsing the CSV file, and how did you solve it?"
+Small Project (Biweekly):
+Students work incrementally on larger tasks (e.g., Project 1: File Organizer).
+Break projects into phases:
+Week 1: Design and write pseudocode.
+Week 2: Code and test functionality.
